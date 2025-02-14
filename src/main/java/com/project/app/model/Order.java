@@ -21,6 +21,7 @@ public class Order {
     private String product;
     private double price;
     private String hiString;
+    private String hiString;
     @Transient
     private User user;
 
