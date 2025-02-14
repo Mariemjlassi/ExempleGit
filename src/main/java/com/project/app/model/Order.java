@@ -20,7 +20,7 @@ public class Order {
     private Long userId;
     private String product;
     private double price;
-    
+    private String hiString;
     @Transient
     private User user;
 
